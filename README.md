@@ -9,7 +9,7 @@
 ### Links
 
 <p>
-  <a href="mailto:hzguanh@gmail.com">
+  <a href="mailto:h2417185282@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-hzguanh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <a href="https://space.bilibili.com/350313300?spm_id_from=333.1007.0.0">
