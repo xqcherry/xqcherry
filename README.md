@@ -9,10 +9,10 @@
 ### Links
 
 <p>
-  <a href="mailto:h2417185282@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-hzguanh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+  <a href="mailto:xqcherry@foxmail.com">
+    <img src="https://img.shields.io/badge/Foxmail-xqcherry%40foxmail.com-E84C2A?style=flat-square&logoColor=white" alt="email"/>
   </a>
-  <a href="https://space.bilibili.com/350313300?spm_id_from=333.1007.0.0">
-    <img src="https://img.shields.io/badge/Bilibili-xqcherry-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
+  <a href="mailto:h2417185282@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-h2417185282%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="email"/>
   </a>
 </p>
