@@ -6,8 +6,7 @@
   </p>
 </div>
 
-- I enjoy building practical AI tools and learning by shipping real projects.
-- I’m open to collaboration and internship opportunities — feel free to reach out.
+- Automate everything that can be automated
 
 ### Links
 
@@ -19,7 +18,3 @@
     <img src="https://img.shields.io/badge/Bilibili-xqcherry-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
   </a>
 </p>
-
-> "The mission of learning is to gain an understanding of various designs."
->
-> "Attempt to achieve any sustainable behavior through automated means."
