@@ -1,11 +1,6 @@
 <div align="center">
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+xqcherry." alt="Hi"/>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-         width="24px"
-         height="24px"
-         alt="wave"
-         style="vertical-align: middle; margin-left: -180px;"/>
   </p>
   <p>
     <strong>Automate everything that can be automated</strong>
