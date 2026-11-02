@@ -5,7 +5,6 @@
 
 ## Projects
 
-- **[LinBoard](https://github.com/xqcherry/LinBoard)** — A lightweight Linux system monitoring dashboard.
 - **[DSH-TUI-Lite](https://github.com/xqcherry/dsh-tui-lite)** — A lightweight TUI plugin for DeepSeek Harness (DSH).
 
 <p align="right">
