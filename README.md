@@ -4,8 +4,6 @@
 
 </div>
 
-<br/>
-
 ## Projects
 
 <table>
