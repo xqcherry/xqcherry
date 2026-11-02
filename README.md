@@ -5,7 +5,6 @@
 
   <p> Software Engineer </p>
 </div>
----
 
 ## 🚀 Projects
 
